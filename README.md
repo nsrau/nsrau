@@ -1,9 +1,7 @@
 ### Hi there, i'm Newton
 💻  &nbsp; I am a Full Stack Developer
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nsrau&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsrau&hide_langs_below=1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>&nbsp;
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;
