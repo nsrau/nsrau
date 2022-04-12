@@ -1,10 +1,8 @@
-### Hi there, i'm Newton
-💻  &nbsp; I am a Full Stack Developer
+# About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsrau&hide_langs_below=1&layout=compact"/>
-</p>
-
+👋🏽 My name is Newton, I live in Italy and I work as a Senior Developer, currently, I work with ReactJs on the Frontend side and node js on the Backend side.
+Sometimes I like to create small open-source projects.
+<hr/>
 <p align="center">
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>&nbsp;
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;
