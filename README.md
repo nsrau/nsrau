@@ -1,6 +1,6 @@
 # About Me
 
-👋🏽 My name is Newton, I live in Italy and I work as a Senior Developer, currently, I work with ReactJs on the Frontend side and node js on the Backend side.
+👋🏽 My name is Newton, I live in Italy and I work as a Senior Developer, currently, I work with @reactjs on the Frontend side and @nodejs on the Backend side.
 Sometimes I like to create small open-source projects.
 <hr/>
 <p align="center">
