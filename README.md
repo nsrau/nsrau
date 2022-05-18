@@ -31,6 +31,8 @@ Sometimes I like to create small open-source projects.
 </p>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nsrau&theme=solarized_dark" />
+</p>
+<p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nsrau&theme=solarized_dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nsrau&theme=solarized_dark" />
 </p>
