@@ -1,6 +1,6 @@
 # About Me
 
-👋🏽 My name is Newton, I live in Italy and I work as a Senior Developer, currently, I work with @reactjs on the Frontend side and @nodejs on the Backend side.
+👋🏽 My name is Newton, I'm Brazilian but I live in Italy and I work as a Senior Developer, currently, I work with @reactjs on the Frontend side and @nodejs on the Backend side.
 Sometimes I like to create small open-source projects.
 <h3>Things I code with</h3>
 <p>
