@@ -47,34 +47,5 @@
 
 <br/>
 
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/nsrau/clean-react">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=nsrau&repo=clean-react&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/nsrau/react-youtube-iframe">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=nsrau&repo=react-youtube-iframe&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/nsrau/Thermostatino">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=nsrau&repo=Thermostatino&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/nsrau/rocketpay">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=nsrau&repo=rocketpay&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<br/>
-
-## 📫 Let's connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/newton-samin-urbanetz/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nsrau)
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=100&section=footer" width="100%"/>
